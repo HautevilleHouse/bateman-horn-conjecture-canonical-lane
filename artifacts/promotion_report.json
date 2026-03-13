@@ -1,0 +1,19 @@
+{
+  "extracted_source": "artifacts/constants_extracted.json",
+  "framework": "bateman_horn_conjecture",
+  "generated_utc": "2026-03-13T17:47:50Z",
+  "promoted_constants": {
+    "eps_coh": 0.0,
+    "horn_transfer": 1.02951,
+    "kappa_compact": 0.8025682182985554,
+    "kappa_density": 1.093346,
+    "rho_rigidity": 1.078,
+    "sigma_pattern": 1.0739999999999998
+  },
+  "promoted_stitch": {
+    "sigma_star_can": 1.054
+  },
+  "registry_path": "artifacts/constants_registry.json",
+  "schema_version": "2026-03-05",
+  "stitch_path": "artifacts/stitch_constants.json"
+}

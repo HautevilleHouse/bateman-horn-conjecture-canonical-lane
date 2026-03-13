@@ -1,0 +1,21 @@
+title: "The Bateman-Horn Conjecture via Prime-Pattern Density Persistence"
+message: "If you use this workspace, cite the manuscript and theorem notes."
+type: software
+authors:
+  - name: "HautevilleHouse"
+date-released: 2026-03-05
+repository-code: "https://github.com/HautevilleHouse/bateman-horn-conjecture-canonical-lane"
+url: "https://github.com/HautevilleHouse/bateman-horn-conjecture-canonical-lane"
+license: None
+keywords:
+  - analytic-number-theory
+  - bateman-horn-conjecture
+  - number-theory
+  - polynomial-primes
+  - reproducibility
+preferred-citation:
+  type: article
+  title: "The Bateman-Horn Conjecture via Prime-Pattern Density Persistence"
+  authors:
+    - name: "HautevilleHouse"
+  date: 2026-03-05

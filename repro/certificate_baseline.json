@@ -1,0 +1,78 @@
+{
+  "all_pass": true,
+  "all_pass_normalized": true,
+  "blockers": {
+    "BH_G1": [],
+    "BH_G2": [],
+    "BH_G3": [],
+    "BH_G4": [],
+    "BH_G5": [],
+    "BH_G6": [],
+    "BH_GM": []
+  },
+  "derived": {
+    "strict_coh_zero": true,
+    "strict_margin": 0.8025682182985554
+  },
+  "gates": {
+    "BH_G1": "PASS",
+    "BH_G2": "PASS",
+    "BH_G3": "PASS",
+    "BH_G4": "PASS",
+    "BH_G5": "PASS",
+    "BH_G6": "PASS",
+    "BH_GM": "PASS"
+  },
+  "inputs": {
+    "eps_coh": 0.0,
+    "horn_transfer": 1.02951,
+    "kappa_compact": 0.8025682182985554,
+    "kappa_density": 1.093346,
+    "rho_rigidity": 1.078,
+    "sigma_pattern": 1.0739999999999998,
+    "sigma_star_can": 1.054
+  },
+  "lane": {
+    "active_lane": "manifold_constrained",
+    "canonical_theorem_lane": "manifold_constrained"
+  },
+  "meta": {
+    "computed_at_utc": "2026-03-13T17:47:50+00:00",
+    "framework": "bateman_horn_conjecture"
+  },
+  "normalized": {
+    "blockers": {
+      "G1": [],
+      "G2": [],
+      "G3": [],
+      "G4": [],
+      "G5": [],
+      "G6": [],
+      "GCoh": [],
+      "GM": []
+    },
+    "gates": {
+      "G1": "PASS",
+      "G2": "PASS",
+      "G3": "PASS",
+      "G4": "PASS",
+      "G5": "PASS",
+      "G6": "NA",
+      "GCoh": "PASS",
+      "GM": "PASS"
+    }
+  },
+  "schema": {
+    "g6_policy": "NA means this framework has no standalone pre-coherence G6 gate",
+    "normalized_gate_keys": [
+      "G1",
+      "G2",
+      "G3",
+      "G4",
+      "G5",
+      "G6",
+      "GCoh",
+      "GM"
+    ]
+  }
+}

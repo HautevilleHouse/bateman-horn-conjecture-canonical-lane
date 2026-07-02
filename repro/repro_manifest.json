@@ -31,23 +31,23 @@
     },
     {
       "path": "notes/EG1_public.md",
-      "sha256": "3f9e0e1fe7c74d6f21f86004fb35cf25cd077844df7c1205a67a320d904dd7d6"
+      "sha256": "185853a41dc9c05be0b45bf44a78b2380077aa143ec5e5b8cad7d2dec14407e8"
     },
     {
       "path": "notes/EG2_public.md",
-      "sha256": "82c44b9271c1200085f5cbfdaa24a5e6ea02cbc9cbebd8000f6c449e9da19211"
+      "sha256": "a404432903e808006366df6ed85fcfa08c66fef6654910289d2dea47800b18ff"
     },
     {
       "path": "notes/EG3_public.md",
-      "sha256": "92fa476fc03545a5a03ec99a018c3538c9e7aaf585bfa826085121f0bb5fa0df"
+      "sha256": "c1d78ed3860e6c00aa09b40cec722d133d73d178531269743b573aaae604c7da"
     },
     {
       "path": "notes/EG4_public.md",
-      "sha256": "d2b6ff650464ce45f47551f91d17e17a5c3098dbf278018e8df8c3723847b2f8"
+      "sha256": "915ec423504443e4c748e2ca40fce8015c6908fded86cfe5c693765e27225dae"
     },
     {
       "path": "notes/IDENTIFICATION_BRIDGE.md",
-      "sha256": "191124bced74468f5300ac346060964b353feed51cc9cedd743acf933e4e4fca"
+      "sha256": "b673e8d0bc5c434218b1c7a37eb3282a86569cfb83d2a95991572262975f688d"
     },
     {
       "path": "paper/CANONICAL_ROUTING_INDEX.md",
@@ -59,7 +59,7 @@
     },
     {
       "path": "paper/BATEMAN_HORN_CONJECTURE_PREPRINT.md",
-      "sha256": "570ead5c44203c705b7a495f85fbbf51d0173789449103f7113356f4635fd0b0"
+      "sha256": "c70b912a3810c1b08cb4969ff9176c09fddc37d4b7c4dda3349165acb24ec0ac"
     },
     {
       "path": "repro/REPRO_PACK.md",
@@ -102,7 +102,7 @@
       "sha256": "69def92f331d82d0910240f16251e081b956dcabec503336f5ea204f9e2e2acd"
     }
   ],
-  "generated_utc": "2026-05-10T05:17:40Z",
+  "generated_utc": "2026-07-02T16:12:45Z",
   "lane": "manifold_constrained",
   "runtime_certificate_path": "repro/certificate_runtime.json",
   "schema_version": "2026-03-05"
